@@ -4,3 +4,15 @@
 # React Router
 /.react-router/
 /build/
+
+# Lock files
+bun.lock
+package-lock.json
+pnpm.lock
+
+# Environment files
+.env
+.env.*
+
+# custom
+.prettierrc
