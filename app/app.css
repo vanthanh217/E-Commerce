@@ -78,6 +78,7 @@ body {
   --shadow-opacity: var(--shadow-opacity);
   --color-shadow-color: var(--shadow-color);
   --color-destructive-foreground: var(--destructive-foreground);
+  --font-pacifico: 'Pacifico', cursive;
 }
 
 :root {
